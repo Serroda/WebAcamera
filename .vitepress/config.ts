@@ -7,6 +7,10 @@ export default defineConfig({
   description: "A tool that allows you to control action cameras through WiFi.",
   base: "/WebAcamera/",
   outDir: './docs',
+  head: [
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: './favicon.svg' }],
+   
+  ],
   vite: {
     plugins: [
       UnoCSS()
