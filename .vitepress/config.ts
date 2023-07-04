@@ -5,10 +5,10 @@ import UnoCSS from 'unocss/vite'
 export default defineConfig({
   title: "Acamera",
   description: "A tool that allows you to control action cameras through WiFi.",
-  base:"/acamera/",
-  outDir:'./docs',
-  vite:{
-    plugins:[
+  base: "/WebAcamera/",
+  outDir: './docs',
+  vite: {
+    plugins: [
       UnoCSS()
     ]
   }

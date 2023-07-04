@@ -1,6 +1,6 @@
 <template>
     <nav class="nav-main">
-        <a href="/" @click="initTransition()">Acamera</a>
+        <a href="/WebAcamera/" @click="initTransition()">Acamera</a>
     </nav>
 </template>
 <script lang="ts" setup>

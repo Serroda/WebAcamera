@@ -45,7 +45,7 @@ function openLink(link: string) {
       <button v-for="button in frontmatter.buttons" class="button" :class="button.class" @click="openLink(button.link)">{{
         button.text }}</button>
     </div>
-    <a class="mt-26px mb-26px" href="/acamera/privacy-policy" @click="initTransition()">Privacy policy</a>
+    <a class="mt-26px mb-26px" href="/WebAcamera/privacy-policy" @click="initTransition()">Privacy policy</a>
   </div>
 
   <div v-else class="w-100%">
