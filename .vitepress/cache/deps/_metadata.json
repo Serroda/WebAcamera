@@ -1,0 +1,41 @@
+{
+  "hash": "da301726",
+  "browserHash": "0ceeba2b",
+  "optimized": {
+    "vue": {
+      "src": "../../../node_modules/.pnpm/vue@3.3.4/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "95cb9d38",
+      "needsInterop": false
+    },
+    "vitepress > @vue/devtools-api": {
+      "src": "../../../node_modules/.pnpm/@vue+devtools-api@6.5.0/node_modules/@vue/devtools-api/lib/esm/index.js",
+      "file": "vitepress___@vue_devtools-api.js",
+      "fileHash": "5aa68d25",
+      "needsInterop": false
+    },
+    "unocss": {
+      "src": "../../../node_modules/.pnpm/unocss@0.53.4_postcss@8.4.24_vite@4.3.9/node_modules/unocss/dist/index.mjs",
+      "file": "unocss.js",
+      "fileHash": "8f392c40",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "dist-GPB2NXGU": {
+      "file": "dist-GPB2NXGU.js"
+    },
+    "chunk-ITN2XBHD": {
+      "file": "chunk-ITN2XBHD.js"
+    },
+    "node-loader-DWCU55WS": {
+      "file": "node-loader-DWCU55WS.js"
+    },
+    "chunk-MLCEN7JF": {
+      "file": "chunk-MLCEN7JF.js"
+    },
+    "chunk-KGKAZ2K7": {
+      "file": "chunk-KGKAZ2K7.js"
+    }
+  }
+}
